@@ -43,7 +43,6 @@ Sejarah Istana Basa Pagaruyung adalah game edukatif di mana pemain berperan seba
 - MTCNA
 - SQL Injections Attacks
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 
 

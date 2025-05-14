@@ -1,6 +1,6 @@
-# Data Scientist
+# Software Developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Java, Python, SQL, Kotlin, , MATLAB
 
 ## Education
 - S.Tr.Kom. | Politeknik Caltex Riau 						       		

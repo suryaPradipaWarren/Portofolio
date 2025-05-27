@@ -18,10 +18,10 @@
 - Kotlin, React Native
 
 ### 🗄️ Database
-- MySQL, Firebase, MongoDB
+- MySQL, Firebase
 
 ### 🧰 Tools & Environments
-- Visual Studio Code, Android Studio, Postman
+- Visual Studio Code, Android Studio
 
 ### 🤖 Deep Learning Frameworks
 - TensorFlow, Keras

@@ -1,17 +1,17 @@
 # Software Developer
 
 ## Soft Skill
-##### Bahasa Pemrograman: 
+### Bahasa Pemrograman: 
  Python, Java, JavaScript, PHP, Kotlin, C#
-##### Web Development FrameWork: 
+### Web Development FrameWork: 
  Laravel, Code Igniter, Flask
-##### Mobile Development: 
+### Mobile Development: 
  Kotlin, React Native
-##### Database: 
+### Database: 
  MySQL, Firebase, MongoDB
-##### Software Development: 
+### Software Development: 
  Visual Studio Code, Android Studio, PostMan
-##### Deep Learning FrameWork: 
+### Deep Learning FrameWork: 
  TensorFlow, Keras
 
 ## Hard Skill

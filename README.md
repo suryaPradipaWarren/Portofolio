@@ -1,7 +1,15 @@
 # Software Developer
 
-#### Technical Skills: Java, Python, SQL, Kotlin, , MATLAB
+##Soft Skill
+##### Bahasa Pemrograman: Python, Java, JavaScript, PHP, Kotlin, C#
+##### Web Development FrameWork: Laravel, Code Igniter, Flask
+##### Mobile Development: Kotlin, React Native
+##### Database: MySQL, Firebase, MongoDB
+##### Software Development: Visual Studio Code, Android Studio, PostMan
+##### Deep Learning FrameWork: TensorFlow, Keras
 
+##Hard Skill
+Problem Solving, Communication, Team Collaboration, Time Management
 ## Education
 - S.Tr.Kom. | Politeknik Caltex Riau 						       		
 

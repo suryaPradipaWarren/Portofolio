@@ -1,4 +1,4 @@
-# 💻 Informatics Engineering Portofolio
+# 💻 Informatics Engineering
 
 ## 🧠 Soft Skills
 - Problem Solving  

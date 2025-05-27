@@ -1,5 +1,5 @@
 title: "Surya Pradipa Warren"
-logo: /assets/img/foto.jpg  # Pastikan file ini ada dan sesuai path-nya
+# logo: /assets/img/foto.jpg  # Pastikan file ini ada dan sesuai path-nya
 description: "Portfolio of an Informatics Engineering Graduate | Software Developer & Machine Learning Enthusiast"
 show_downloads: false  # Set ke true jika kamu ingin munculkan tombol download ZIP
 theme: jekyll-theme-minimal

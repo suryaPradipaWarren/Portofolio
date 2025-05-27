@@ -1,4 +1,4 @@
-# 💻 Software Developer Portfolio
+# 💻 Informatics Engineering Portofolio
 
 ## 🧠 Soft Skills
 - Problem Solving  
